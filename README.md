@@ -1,0 +1,1 @@
+This is basic tik tak toe game build with the help of react documentation, just for understanding the main react components
