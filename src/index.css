@@ -31,7 +31,7 @@ ol, ul{
     outline:none;
 }
 .kid-navigation .square:focus{
-    background: #ddd;
+    background: rgb(150, 150, 150);
 }
 .game {
     display: flex;
