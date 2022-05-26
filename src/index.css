@@ -36,6 +36,8 @@ ol, ul{
 .game {
     display: flex;
     flex-direction: row;
+    align-item:center;
+    justify-content:center;
 }
 .game-info {
     margin-left: 20px;
